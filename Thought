@@ -1,0 +1,8 @@
+public class Thought
+{
+    public void messages()
+    {
+        System.out.println("Im thinking, im thinking.");
+        System.out.println();
+    }
+}
