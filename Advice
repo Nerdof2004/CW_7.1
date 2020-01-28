@@ -1,3 +1,5 @@
+// Saelee Johnson
+
 public class Advice extends Thought
 {
     public void messages()
