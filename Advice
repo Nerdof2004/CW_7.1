@@ -8,3 +8,4 @@ public class Advice extends Thought
         super.messages();
     }
 }
+
